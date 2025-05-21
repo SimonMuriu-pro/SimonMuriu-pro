@@ -1,4 +1,4 @@
-<h1>Hi, I'm Simon! <br/><a href="https://github.com/joshmadakor1">Using data to inform & inspire action</a> </h1>
+<h1>Hi, I'm Simon! <br/><a href="https://sites.google.com/view/simon-muriu-portfolio/hello">Using data to inform & inspire action</a> </h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 <b> Analysis and Visualization (python and power bi)</b>
