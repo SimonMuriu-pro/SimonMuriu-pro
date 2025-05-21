@@ -1,21 +1,16 @@
-<h1>Hi, I'm Simon! <br/>
-
-  *Using data to inform & inspire action*</h1>
-
-<h3>
-  <a href="https://sites.google.com/view/simon-muriu-portfolio/hello"> 👇 Below are selected projects demonstrating my expertise and Skills:</a>
-</h3>
-
-
+<h1>Hi, I'm Simon! <br/><a href="https://github.com/joshmadakor1">Using data to inform & inspire action</a> </h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
-- <b> Analysis and Visualization (python and power bi)</b>
+<b> Analysis and Visualization (python and power bi)</b>
+ 
   - [Car Sales Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
-- <b> Transform, Forecast, Visualize (python and power bi) </b>
-  - [Anonymized Data Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+  -  [Car Sales Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
+
+ <b> Transform, Forecast, Visualize (python and power bi) </b>
+-  [Anonymized Data Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
 <h2>👨‍💻 Workflow Automation Projects:</h2>
 - <b>Etl Automation Project 1 (python)</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+
 
 
 <h2>📺 Popular YouTube Videos</h2>
