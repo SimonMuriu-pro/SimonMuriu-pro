@@ -1,4 +1,4 @@
-<h1>Hi, I'm Simon! <br/><a href="https://github.com/SimonMuriu-pr">Data Analyst</a> | <a href="https://www.linkedin.com/in/simon-muriu-0a1310251/">Business Analyst</a> | <a href="https://sites.google.com/view/simon-muriu-portfolio/github">M&E Analyst</a></h1>
+<h1>Hi, I'm Simon! <br/> <a href="https://sites.google.com/view/simon-muriu-portfolio/hello">Using data to inform & inspire action</a></h1>
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
