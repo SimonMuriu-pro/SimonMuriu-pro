@@ -2,10 +2,10 @@
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
-- <b> Car Sales Analysis (python and power bi)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Anonymized Data Analysis (python and power bi) </b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b> Analysis and Visualization (python and power bi)</b>
+  - [Car Sales Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b> Transform, Forecast, Visualize (python and power bi) </b>
+  - [Anonymized Data Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 <h2>👨‍💻 Workflow Automation Projects:</h2>
 - <b>Etl Automation Project 1 (python)</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
