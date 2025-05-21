@@ -18,14 +18,16 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Twitter" width="22px" src="https://cdn.simpleicons.org/twitter/1DA1F2" />][twitter]
-[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.simpleicons.org/linkedin/0A66C2" />][linkedin]
-[<img align="left" alt="Instagram" width="22px" src="https://cdn.simpleicons.org/instagram/E4405F" />][instagram]
-
+[<img align="left" alt="SimonMuriu | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="SimonMuriu | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="SimonMuriu | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://x.com/stiles_symoh
 [instagram]: https://www.linkedin.com/in/simon-muriu-0a1310251/
 [linkedin]: https://www.linkedin.com/in/simon-muriu-0a1310251/
+
+
+
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
