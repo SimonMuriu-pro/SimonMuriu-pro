@@ -4,7 +4,7 @@
 <b> Analysis and Visualization (python and power bi)</b>
  
   - [Car Sales Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
-  -  [Car Sales Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
+  - [Call center data Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
 
  <b> Transform, Forecast, Visualize (python and power bi) </b>
 -  [Anonymized Data Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
