@@ -1,7 +1,12 @@
-<h1>Hi, I'm Simon! <br/> <a href="https://sites.google.com/view/simon-muriu-portfolio/hello">Using data to inform & inspire action</a></h1>
+<h1>Hi, I'm Simon! <br/> Using data to inform & inspire action</a></h1>
+
+<h4>
+  <a href="https://sites.google.com/view/simon-muriu-portfolio/hello"> 👇 Below are selected projects demonstrating my expertise and Skills:
+</h4>
+
+
 
 <h2>👨‍💻 Data Analysis Projects:</h2>
-
 - <b> Analysis and Visualization (python and power bi)</b>
   - [Car Sales Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
 - <b> Transform, Forecast, Visualize (python and power bi) </b>
