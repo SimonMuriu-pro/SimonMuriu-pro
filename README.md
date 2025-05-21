@@ -3,7 +3,7 @@
 <h2>👨‍💻 Data Analysis Projects:</h2>
 
 - <b> Analysis and Visualization (python and power bi)</b>
-  - [Car Sales Analysis](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Car Sales Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
 - <b> Transform, Forecast, Visualize (python and power bi) </b>
   - [Anonymized Data Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
 <h2>👨‍💻 Workflow Automation Projects:</h2>
