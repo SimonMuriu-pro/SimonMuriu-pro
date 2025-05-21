@@ -1,8 +1,10 @@
-<h1>Hi, I'm Simon! <br/> Using data to inform & inspire action</a></h1>
+<h1>Hi, I'm Simon! <br/>
 
-<h4>
-  <a href="https://sites.google.com/view/simon-muriu-portfolio/hello"> 👇 Below are selected projects demonstrating my expertise and Skills:
-</h4>
+  *Using data to inform & inspire action*</h1>
+
+<h3>
+  <a href="https://sites.google.com/view/simon-muriu-portfolio/hello"> 👇 Below are selected projects demonstrating my expertise and Skills:</a>
+</h3>
 
 
 
