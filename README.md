@@ -10,7 +10,7 @@
 <h2>👨‍💻 ETL and Data Engineering  Projects:</h2>
 <b>Etl pipeline  (python)</b>
 
-- Etl pipeline project 1
+- [Etl pipeline project 1](https://github.com/SimonMuriu-pro/Etl-Automation-Project-1)
 
 
 <h2>👨‍💻 Business Intelligence/Dashboards Projects:</h2>
