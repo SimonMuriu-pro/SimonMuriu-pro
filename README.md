@@ -1,21 +1,23 @@
 <h1>Hi, I'm Simon! <br/><a href="https://sites.google.com/view/simon-muriu-portfolio/hello">Using data to inform & inspire action</a> </h1>
 
-<h2>👨‍💻 Data Analysis Projects:</h2>
-<b> Analysis and Visualization (python and power bi)</b>
- 
+<h2>👨‍💻 End-to-End Analytical Projects:</h2>
+
+  <b> Transform, Analyze, Visualize (python and power bi) </b>
+-  [Anonymized sales Data Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
   - [Car Sales Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
   - [Call center data Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
 
- <b> Transform, Forecast, Visualize (python and power bi) </b>
--  [Anonymized Data Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
-<h2>👨‍💻 Workflow Automation Projects:</h2>
-- <b>Etl Automation Project 1 (python)</b>
+<h2>👨‍💻 ETL and Data Engineering  Projects:</h2>
+<b>Etl pipeline  (python)</b>
+
+- Etl pipeline project 1
 
 
+<h2>👨‍💻 Business Intelligence/Dashboards Projects:</h2>
+<b> Dashboards and Actionable Insights (Power BI and Tableau)</b>
 
-<h2>📺 Popular YouTube Videos</h2>
+- Sales performance dashboard
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
 
 
 <h2> 🤳 Connect with me:</h2>
