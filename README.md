@@ -22,14 +22,15 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="SimonMuriu | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="SimonMuriu | LinkedIn" width="22px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />][linkedin]
+[<img align="left" alt="SimonMuriu | Twitter" width="22px" src="https://cdn-icons-png.flaticon.com/512/733/733579.png" />][twitter]
 [<img align="left" alt="SimonMuriu | Instagram" width="22px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" />][instagram]
 
-[twitter]: https://x.com/stiles_symoh
-[instagram]: https://www.linkedin.com/in/simon-muriu-0a1310251/
-[linkedin]: https://www.linkedin.com/in/simon-muriu-0a1310251/
 
+
+[linkedin]: https://www.linkedin.com/in/simon-muriu-0a1310251/
+[twitter]: https://x.com/stiles_symoh
+[instagram]: https://www.instagram.com/stiles_symoh/
 
 
 
