@@ -3,7 +3,7 @@
 <h2>👨‍💻 End-to-End Analytical Projects:</h2>
 
   <b> Transform, Analyze, Visualize (python and power bi) </b>
--  [Anonymized sales Data Analysis](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b>
+-  [Anonymized sales Data Analysis](https://github.com/SimonMuriu-pro/Anonymized-sales-Data-Analysis/blob/main/README.md) <b>
   - [Car Sales Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
   - [Call center data Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
 
