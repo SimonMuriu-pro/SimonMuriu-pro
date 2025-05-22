@@ -5,7 +5,7 @@
   <b> Transform, Analyze, Visualize (python and power bi) </b>
 -  [Anonymized sales Data Analysis](https://github.com/SimonMuriu-pro/Anonymized-sales-Data-Analysis/blob/main/README.md) <b>
   - [Car Sales Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
-  - [Call center data Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
+  - [Call center data Analysis]
 
 <h2>👨‍💻 ETL and Data Engineering  Projects:</h2>
 <b>Etl pipeline  (python)</b>
