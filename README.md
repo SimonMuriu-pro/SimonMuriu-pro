@@ -15,7 +15,7 @@
 <h2>👨‍💻 SQL  Projects:</h2>
 <b>Full Analysis (SQL) </b>
 
-- Insurance Data Analytics with SQL
+- [Insurance Data Analytics with SQL](https://github.com/SimonMuriu-pro/Insurance-Data-Analytics-with-SQL-/blob/main/README.md)
 
 <h2>👨‍💻 Business Intelligence/Dashboards Projects:</h2>
 <b> Dashboards and Actionable Insights (Power BI and Tableau)</b>
