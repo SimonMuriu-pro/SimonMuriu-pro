@@ -12,13 +12,15 @@
 
 - [Etl pipeline project 1](https://github.com/SimonMuriu-pro/Etl-Automation-Project-1/blob/main/README.md)
 
+<h2>👨‍💻 SQL  Projects:</h2>
+<b>Full Analysis (SQL) </b>
+
+- Insurance Data Analytics with SQL
 
 <h2>👨‍💻 Business Intelligence/Dashboards Projects:</h2>
 <b> Dashboards and Actionable Insights (Power BI and Tableau)</b>
 
 - Sales performance dashboard
-
-
 
 <h2> 🤳 Connect with me:</h2>
 
