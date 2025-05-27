@@ -3,14 +3,15 @@
 <h2>👨‍💻 End-to-End Analytical Projects:</h2>
 
   <b> Transform, Analyze, Visualize (python and power bi) </b>
--  [Anonymized sales Data Analysis](https://github.com/SimonMuriu-pro/Anonymized-sales-Data-Analysis/blob/main/README.md) <b>
-  - [Sales data Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
+  
+- [Project 1: Anonymized Sales data Analysis](https://github.com/SimonMuriu-pro/Anonymized-sales-Data-Analysis/blob/main/README.md) <b>
+- [Project 2: Merchandise Sales data Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
  
 
 <h2>👨‍💻 ETL and Data Engineering  Projects:</h2>
 <b>Etl pipeline  (python)</b>
 
-- [Etl pipeline project 1](https://github.com/SimonMuriu-pro/Etl-Automation-Project-1/blob/main/README.md)
+- [Etl pipeline project 1- Sales](https://github.com/SimonMuriu-pro/Etl-Automation-Project-1/blob/main/README.md)
 
 <h2>👨‍💻 SQL  Projects:</h2>
 <b>Full Analysis (SQL) </b>
