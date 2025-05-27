@@ -4,8 +4,8 @@
 
   <b> Transform, Analyze, Visualize (python and power bi) </b>
   
-- [Project 1: Anonymized Sales data Analysis](https://github.com/SimonMuriu-pro/Anonymized-sales-Data-Analysis/blob/main/README.md) <b>
-- [Project 2: Merchandise Sales data Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
+- [Anonymized Sales data Analysis](https://github.com/SimonMuriu-pro/Anonymized-sales-Data-Analysis/blob/main/README.md) <b>
+- [Merchandise Sales data Analysis](https://github.com/SimonMuriu-pro/Car-Sales-Analysis/blob/main/README.md)
  
 
 <h2>👨‍💻 ETL and Data Engineering  Projects:</h2>
