@@ -12,7 +12,8 @@
 <b>Etl pipeline  (python)</b>
 
 - [Etl pipeline project 1- Sales](https://github.com/SimonMuriu-pro/Etl-Automation-Project-1/blob/main/README.md)
-
+- [ETL Pipeline Project 2- Insurance](https://github.com/SimonMuriu-pro/Etl-Automation-Project-2-Insurance/blob/main/README.md)
+  
 <h2>👨‍💻 SQL  Projects:</h2>
 <b>Full Analysis (SQL) </b>
 
