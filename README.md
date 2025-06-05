@@ -19,7 +19,7 @@
 
 - [Insurance Data Analytics with SQL](https://github.com/SimonMuriu-pro/Insurance-Data-Analytics-with-SQL-/blob/main/README.md)
 
-<h2>👨‍💻 Dashboards BI Projects:</h2>
+<h2>👨‍💻 Dashboards & BI Projects:</h2>
 <b> Power Bi Dashboards </b>
 
 - [Anonymized Sales dashboard](https://github.com/SimonMuriu-pro/Anonymized-Sales-Dashboard/blob/main/README.md)
