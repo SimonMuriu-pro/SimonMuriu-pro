@@ -19,10 +19,12 @@
 
 - [Insurance Data Analytics with SQL](https://github.com/SimonMuriu-pro/Insurance-Data-Analytics-with-SQL-/blob/main/README.md)
 
-<h2>👨‍💻 Business Intelligence/Dashboards Projects:</h2>
-<b> Dashboards and Actionable Insights (Power BI and Tableau)</b>
+<h2>👨‍💻 Dashboards BI Projects:</h2>
+<b> Power Bi Dashboards </b>
 
-- Sales performance dashboard
+- [Anonymized Sales dashboard](https://github.com/SimonMuriu-pro/Anonymized-Sales-Dashboard/blob/main/README.md)
+
+<b> Tableau Dashboards </b>
 
 <h2> 🤳 Connect with me:</h2>
 
