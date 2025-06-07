@@ -22,9 +22,10 @@
 <h2>👨‍💻 Dashboards & BI Projects:</h2>
 <b> Power Bi Dashboards </b>
 
-- [Anonymized Sales dashboard](https://github.com/SimonMuriu-pro/Anonymized-Sales-Dashboard/blob/main/README.md)
+- [Anonymized Sales Analytics dashboard](https://github.com/SimonMuriu-pro/Anonymized-Sales-Dashboard/blob/main/README.md)
 - [Insurance Data Analytics Dashboard](https://github.com/SimonMuriu-pro/Insurance-Data-Analytics-Dashboard/blob/main/README.md)
-  
+- [Merchandise Sales Analytics Dashboard](https://github.com/SimonMuriu-pro/Merchandise-Sales-Analytics-Dashboard/blob/main/README.md)  
+
 <b> Tableau Dashboards </b>
 
 <h2> 🤳 Connect with me:</h2>
